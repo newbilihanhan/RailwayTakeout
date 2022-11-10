@@ -44,6 +44,10 @@
 
 2.在mysql主库中创建railway的schame，并在该schame中运行/resources/sql/railway.sql
 
+3.后端管理系统访问网址 [后端](http://localhost:8080/backend/index.html)
+
+4.手机端前端访问网址 [移动端](http://localhost:8080/front/page/login.html) PC端访问移动端时可开启开发者模式(F12)，点击左上角 开启/隐藏设备工具栏 (Ctrl+Shift+M)
+
 
 #### 参与贡献
 - 程广浩 
